@@ -1,4 +1,4 @@
-# Quantum Researcher Website — Vivek Sabale
+# Website — Vivek Sabale
 
 This repository is a minimal academic website tailored for Vivek Sabale.
 Deploy on GitHub Pages by creating a repo named `viveksabale1998.github.io` and pushing these files.
